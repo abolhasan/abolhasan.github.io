@@ -85,7 +85,6 @@ author:
   bio              : "Associate Professor and Deputy Head of School at UTS"
   location         : "Australia"
   employer         :
-  pubmed           : ""
   googlescholar    : "https://scholar.google.com.au/citations?user=lHxRmsEAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -181,12 +180,12 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  Projects and Grants:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  #talks:
+  #  output: true
+  #  permalink: /:collection/:path/
 
 
 # Defaults
