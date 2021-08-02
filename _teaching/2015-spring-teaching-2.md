@@ -1,5 +1,5 @@
 # ---
-title: "Some of the my current previous Undergraduate and Postgraduate levels subject at UTS includes:"
+# title: "Some of the my current previous Undergraduate and Postgraduate levels subject at UTS includes:"
 # collection: teaching
 # type: "Workshop"
 # permalink: /teaching/2015-spring-teaching-1
