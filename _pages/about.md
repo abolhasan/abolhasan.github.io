@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -18,7 +18,6 @@ B.E Computer, PhD, SMIEEE
 Associate Professor – School of Computing and Communications
 Director of Research Programs – Faculty of Engineering and IT
 University of Technology Sydney
-UTS Profile
 
-Google Scholar
+
 E: Mehran [dot] abolhasan [AT] uts [dot] edu [dot] au
