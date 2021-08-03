@@ -238,10 +238,10 @@ defaults:
   # _talks
   - scope:
       path: ""
-     type: talks
-   values:
-     layout: talk
-    author_profile: true
+      type: talks
+    values:
+     layout: single
+     author_profile: true
      share: true
      comment: true
 
