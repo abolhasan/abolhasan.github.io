@@ -226,10 +226,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _Projects and Grants
+  # _Portfolio
   - scope:
       path: ""
-      type: Projects and Grants
+      type: Portfolio
     values:
       layout: single
       author_profile: true
