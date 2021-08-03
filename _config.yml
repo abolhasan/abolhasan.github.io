@@ -180,7 +180,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  Projects and Grants:
+  Portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
