@@ -8,7 +8,7 @@
 # location: "City, Country"
 # ---
 
-Some of the my current previous Undergraduate and Postgraduate levels subject at UTS includes:
+Some of the my current previous Undergraduate and Postgraduate levels subject at UTS includes the following:
 
 Heading 1 
 ======
