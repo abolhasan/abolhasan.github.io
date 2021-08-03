@@ -183,9 +183,9 @@ collections:
   Projects and Grants:
     output: true
     permalink: /:collection/:path/
-  #talks:
-  #  output: true
-  #  permalink: /:collection/:path/
+  talks:
+   output: true
+  permalink: /:collection/:path/
 
 
 # Defaults
