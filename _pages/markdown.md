@@ -7,7 +7,7 @@ author_profile: true
 #  - /markdown.html
 ---
 
-<h2>Research Student Supervisions</h2>
+
 <br>
 
 I am the Principal Supervisor of a number of PhD and Masters Students at UTS. I also contribute as a Co-Supervisor and have contributed as an External Supervisor for a number of students both at UTS and other Universities. Some of my current and previous students are listed below:
