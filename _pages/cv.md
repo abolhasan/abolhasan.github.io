@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Activities
+
 
 Contributions to Research Conferences and Journals:
 
