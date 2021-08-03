@@ -184,8 +184,8 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-   output: true
-  permalink: /:collection/:path/
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -210,7 +210,7 @@ defaults:
       author_profile: true
   # _teaching
   - scope:
-      path: "abolhasan.github.io"
+      path: ""
       type: teaching
     values:
       layout: single
@@ -219,7 +219,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: "abolhasan.github.io"
+      path: ""
       type: publications
     values:
       layout: single
@@ -228,7 +228,7 @@ defaults:
       comments: true
   # _portfolio
   - scope:
-      path: "abolhasan.github.io"
+      path: ""
       type: portfolio
     values:
       layout: single
@@ -237,13 +237,12 @@ defaults:
       comment: true
   # _talks
   - scope:
-      path: "abolhasan.github.io"
+      path: ""
       type: talks
     values:
-     layout: single
-     author_profile: true
-     share: true
-     comment: true
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
@@ -310,4 +309,3 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-minimal
