@@ -7,53 +7,22 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+Activities
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Contributions to Research Conferences and Journals:
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+I have served as a Peer reviewer and a TPC for a number of International conferences and Journals for the last 16 years. Some of the conferences and Journals I have served for includes: IEEE Transactions on Networking. IEEE International Conference On Networking (ICON). IEEE Vehicular Technology Conference (VTC). Workshop on Internet, Telecommunications and Signal Processing. IEEE International Conference on Communications (ICC). IEEE Transactions Vehicular Technology Journal. Australian Telecommunication Networks and Applications Conference (ATNAC 2004). IEEE Communications Letters.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Some of my Recent Activities include:
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Reviewer for Australian Research Council Discovery and Linkage Projects (on-going)
+Australian representative in the ISO/IEC International IoT Standardisation workgroup (2017-2018)
+Member of the Australian IoT Alliance and active participant in IoTAA works streams (on-going)
+Track Chair for The IEEE 85th Vehicular Technology Conference (IEEE VTC2017-Spring)
+TPC Member for the 41st IEEE Conference on Local Computer Networks (IEEE LCN 2016)
+TPC Member for 23rd International Conference on Telecommunications (ICT 2016)
+Workshops Chair for 10th International Conference on Body Area Networks (Bodynets 2015)
+TPC 22nd International Conference on Telecommunications (ICT 2015)
+Operations Chair  for IEEE ICC 2014.
+Workshops Chair WPMC 2014.
+TPC member for IEEE LCN 2014, IEEE WOWMOM, BODYNETs 2014, WPMC 2014, ICSPCS 2014.
