@@ -11,6 +11,7 @@ redirect_from:
 
 I am currently looking for new PhD students to work on the following topics:
 <br>
+<br>
 <b>Project Title: High-Speed, Low-Power and Secure Technologies for Internet of Things Applications</b>
 <br>
 Project Description: Internet of Things (IoT) is one of the key technologies with the potential to create a multi-trillion-dollar Industry. IoT is already making significant impact on many existing Industries in a number of ways. This includes enabling business process improvements and better management of operations at scale, while opening ever-growing niche business opportunities. The existing impact of IoT can be seen in many numbers of Industries such as Agriculture, Mining and Transportation, where IoT has played a major role in enabling automation and monitoring. However, with the proposition of new technologies such as 5G, which provide a platform to develop and provision new types of services, the range of applications for IoT is set to grow. This includes a new generation of tactile applications and services with mission critical operations, such as remote surgery, driverless cars and more. Each new application may introduce new research challenges before an IoT solution can be successfully developed. Across a range of challenges mentioned above some of the key research challenges that IoT faces includes: 1. Security and 2. Application specific Connectivity. In terms of Security, much research still needs to be conducted to ensure IoT Devices and the data they generate are secure. This problem needs to be addressed at different stages and layers of the IoT stack. In terms of Application specific connectivity, since IoT devices have different transmission and QoS requirements, this issue will have to be addressed based on the application requirement. For example, one application may require low data-rate but long-range connectivity, and another may require ultra-reliable connectivity with low-delay and high-speed connectivity. Furthermore, another application may require each IoT device to be located in places where recharging of batteries may not be feasible, hence the IoT devices must operate and transmit data in an energy efficient manner. This project will explore a number of research topics based on the above challenges.
@@ -46,22 +47,22 @@ Experience Needed: Strong mathematical background, Knowledge of Optimisation tec
 <b>Detailed List of my research topics:</b>
 
 In addition to the above topics, I also have interests in a number of other topics in Networking. A detailed list of my current research areas and interests are include:
-
-Internet of Things
-5G, 6G Wireless Networks
-Intelligent Networks
-Wireless Network Data Analytics
-Application of AI and ML in Networking
-Software-Defined Networks
-Wireless relay, Mesh and Multi-hop Mobile networking
-Mobile Social Networking.
-Big Data sensing and Network Design.
-Information Centric Networking.
-Cognitive Radio Networks
-Cooperative and Cognitive Communication
-Sensor and Body Area Networking
-Delay Tolerant Networking
-Rural and Remote Communications Technologies
-ITS and Vehicular Networking
-
+<ul>
+<li>Internet of Things</li>
+<li>5G, 6G Wireless Networks</li>
+<li>Intelligent Networks</li>
+<li>Wireless Network Data Analytics</li>
+<li>Application of AI and ML in Networking</li>
+<li>Software-Defined Networks</li>
+<li>Wireless relay, Mesh and Multi-hop Mobile networking</li>
+<li>Mobile Social Networking.</li>
+<li>Big Data sensing and Network Design.</li>
+<li>Information Centric Networking.</li>
+<li>Cognitive Radio Networks</li>
+<li>Cooperative and Cognitive Communication</li>
+<li>Sensor and Body Area Networking</li>
+<li>Delay Tolerant Networking</li>
+<li>Rural and Remote Communications Technologies</li>
+<li>ITS and Vehicular Networking</li>
+<ul>
 
