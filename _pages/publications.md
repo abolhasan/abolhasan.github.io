@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 Journals
-1. Abdollahi, M., Ni, W., Abolhasan, M., & Li, S. (2021). Software-defined Networking-based Adaptive Routing for Multi-hop Multi-frequency Wireless Mesh. IEEE Transactions on Vehicular Technology (IEEE TVT). doi:10.1109/TVT.2021.3116266
+1. M. Abdollahi, W. Ni, M. Abolhasan and S. Li, "Software-Defined Networking-Based Adaptive Routing for Multi-Hop Multi-Frequency Wireless Mesh," in IEEE Transactions on Vehicular Technology, vol. 70, no. 12, pp. 13073-13086, Dec. 2021, doi: 10.1109/TVT.2021.3116266.
 2. A. A. Khan, M. Abolhasan, W. Ni, J. Lipman and A. Jamalipour, “An End-to-End (E2E) Network Slicing Framework for 5G Vehicular Ad-Hoc Networks,” in IEEE Transactions on Vehicular Technology (IEEE TVT), vol. 70, no. 7, pp. 7103-7112, July 2021, doi: 10.1109/TVT.2021.3084735.
 3. Ashtari, S., Abdollahi, M., Abolhasan, M., Shariati, N., & Lipman, J. (2021). Performance analysis of multi-hop routing protocols in SDN-based wireless networks. Computers and Electrical Engineering. doi:10.1016/j.compeleceng.2021.107393
 4. I. Zhou, I. Makhdoom, N. Shariati, M. Raza, R. Keshavarz, J.Lipman, M. Abolhasan and A. Jamalipour: “Internet of Things 2.0: Concepts, Applications, and Future Directions”. In IEEE Access. Vol 9, p. 70961-71012. May 2021. doi=10.1109/ACCESS.2021.3078549.
