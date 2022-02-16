@@ -21,9 +21,8 @@ Current Postgraduate Students
 <li>Mr. Sepehr Ashtarinakhaei (PhD)</li>
 <li>Mr. Muhammad Ahmad Raza (PhD)</li>
 <li>Mr. Madyan Alsenwi (PhD)</li>
+<li>Mr. Majid Amiri (PhD) </li>
 <li>Mr. Muhammad Ahmad Hassan (Masters by Research)</li>
-<li>Mr. Majid Amiri (PhD)</li>
-<li>Ms. Mahrokh Abdollahi Lorestani (PhD)</li>
 <li>Mr. Mahbubur Rahman (Co-Supervisor)</li> 
 <li>Mr. Ian Zhou (Co-supervisor)</li>
 <li>Ms. Durga Vijaya (PhD) (Co-supervisor)</li>
@@ -37,7 +36,8 @@ Previous Postgraduate Supervisions
 <br>
  
  <ul>
-   
+
+<!-- <li>Dr. Mahrokh Abdollahi Lorestani (PhD accepted)(2022)</li>    -->
 <li>Dr. Mahdi Saki (PhD)(2020)</li>
 <li>Dr. Imran Makhdoom (PhD)(2020)</li>
 <li>Dr. Mahmoud Gamal (PhD)(2020)</li>
