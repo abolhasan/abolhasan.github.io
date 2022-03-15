@@ -37,7 +37,7 @@ Previous Postgraduate Supervisions
  
  <ul>
 
-<!-- <li>Dr. Mahrokh Abdollahi Lorestani (PhD accepted)(2022)</li>    -->
+<li>Dr. Mahrokh Abdollahi Lorestani (PhD)(2022)</li>
 <li>Dr. Mahdi Saki (PhD)(2020)</li>
 <li>Dr. Imran Makhdoom (PhD)(2020)</li>
 <li>Dr. Mahmoud Gamal (PhD)(2020)</li>
