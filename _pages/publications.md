@@ -6,7 +6,7 @@ author_profile: true
 ---
 Journals
 1. I. Makhdoom, J. Lipman, M. Abolhasan and D. Challen, "Science and Technology Parks: A Futuristic Approach," in IEEE Access, doi: 10.1109/ACCESS.2022.3159798. 2022.
-2. Ashtari, M., Abolhasan, M., Shariati, N., J. Lipman and W. W. Ni: "J.Knowledge-Defined Networking: Applications, Challenges and Future Work". To appear in Elsevier Array. 2022.
+2. Ashtari, I. Zhou, M., Abolhasan, M., Shariati, N., J. Lipman and W. W. Ni: "J.Knowledge-Defined Networking: Applications, Challenges and Future Work". To appear in Elsevier Array. 2022.
 3. M. Raza, M. Abolhasan, J.Lipman, N. Shariati, W. Ni and A. Jamalipour: "Statistical Learning-based Grant-Free Access for Delay-Sensitive Internet of Things Applications". To Appear in IEEE Transactions on Vehicular Technology (IEEE TVT). 2022.
 4. M. Amiri, M. Abolhasan, N. Shariati, J. Lipman: "Remote Water Salinity Sensor Using Metamaterial Perfect Absorber", To appear in IEEE Transactions on Antennas and Propagation (IEEE TAP). 2022. 
 5. M. A. Ullah, R. Keshavarz, M. Abolhasan, J. Lipman, K. P. Esselle and N. Shariati, "A Review on Antenna Technologies for Ambient RF Energy Harvesting and Wireless Power Transfer: Designs, Challenges and Applications," in IEEE Access, doi: 10.1109/ACCESS.2022.3149276. 2022.
