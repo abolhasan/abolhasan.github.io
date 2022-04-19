@@ -57,6 +57,5 @@ Previous Postgraduate Supervisions
 <li>Dr. Mehrnoush masihpour (PhD) (2012)</li>
 <li>Dr. Bappi Barua (PhD) (2012)</li>
 <li>Ms. Samaneh Movassaghi (ME) (2012)</li>
-<li>Mr. Walid Raad (ME) (2009)</li>
 <li>Dr. Jerry Chun-Ping Wang (PhD)(2010)</li>
   </ul>
