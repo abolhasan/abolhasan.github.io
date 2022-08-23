@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 Journals
-1. S. ashtari, M. Abolhasan, J. Lipman, N. Shariati, W. Ni and A. Jamalipour, "Joint Mobile Node Participation and Multihop Routing for Emerging Open Radio-Based Intelligent Transportation System," in IEEE Access, vol. 10, pp. 85228-85242, 2022, doi: 10.1109/ACCESS.2022.3197877.
+1. S. Ashtari, M. Abolhasan, J. Lipman, N. Shariati, W. Ni and A. Jamalipour: "Joint Mobile Node Participation and Multihop Routing for Emerging Open Radio-Based Intelligent Transportation System", in IEEE Access, vol. 10, pp. 85228-85242, 2022, doi: 10.1109/ACCESS.2022.3197877.
 2. M. A. Ullah, R. Keshavarz, M. Abolhasan, J. Lipman and N. Shariati: "Low-profile Dual-band Pixelated Defected Ground Antenna for Multistandard IoT Devices". To appear in Scientic Reports. 2022.
 3. M. Alsenwi, M. Abolhasan, J. Lipman, "Intelligent and Reliable Millimeter Wave Communications for RIS-aided Vehicular Networks", To appear in IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS). 2022.
 4. I. Makhdoom, M. Abolhasan, J. Lipman, "A comprehensive survey of covert communication techniques, limitations and future challenges", In Computers & Security, Volume 120, 2022,102784, ISSN 0167-4048, https://doi.org/10.1016/j.cose.2022.102784. 2022.
