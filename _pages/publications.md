@@ -197,16 +197,17 @@ Conferences
 
 Books, book chapters and Magazines
 
-1. D. Smith and M. Abolhasan: “Diversity and cooperative communications in body area networks “. In Advances in Body-Centric Wireless Communication: Applications and State of-the-art. 2016.
-2. A. AL Sabbagh, R. Braun and M. Abolhasan, “Centralized and Distributed CRRM in Heterogeneous Wireless Networks”, in Advanced Methods and Applications in Computational Intelligence, Topics in Intelligent Engineering and Informatics, vol. 6, Springer International Publishing, pp. 299-314. Switzerland 2014.
-3. M. Masihpour, J. Agbinya and M. Abolhasan: “Energy scavenging for magnetically coupled communication devices”. In the book: Energy Scavenging and Optimization Techniques for Mobile Devices, CRC Press, USA. 2012.
-4. J. Lipman, M. Abolhasan and T. Wysocki: “Broadcasting and its Applications in Ad hoc Networks”, To appear in Handbook on Mobile Ad Hoc and Pervasive Communications, to be published by the American Scientific Publishers, December 2006.
-5. M. Abolhasan: ” A new networking technology to improve communications in under-ground mines”, In The Mining Cronicles, Vol 10, November eddition feature: Remote Area Communications, November, 2005.
-6. M. Abolhasan and T.A. Wysocki:”Ad Hoc Networks: A Flexible and Robust Data Communication”, In Handbook on Theoretical and Algorithmic Aspects of Sensor, Ad hoc Wireless and Peer-to-Peer Networks, J. Wu, Ed., CRC Press, 2005.
-7. M. Abolhasan and P. Boustead:”UHF-Based Community Voice Service in Ngaanyatjarra Land of Australia”, In the book: “Information Technology and Indigenous People”,Published by the Idea Group Publishing, 2006.
-8. M. Abolhasan and T.A. Wysocki:”Highly Scalable Routing Strategies: DZTR routing protocol”, In Advanced Wired and Wireless Networks, Series: Multimedia Systems and Applications, Wysocki, Tadeusz A.; Dadej, Arek; Wysocki, Beata J. (Eds.), Vol. 26, Springer, New York, pp. 1-18, 2004.
-9. M. Abolhasan, T.A.Wysocki, and E.Dutkiewicz: “GPS-based Route Discovery algorithms for On-demand Routing Protocols in MANETs”, In Wireless On-Demand Network Systems, Proceedings of WONS 2004, Lecture Notes in Computer Science LNCS2928, Springer 2004, pp. 142-155.
-10. M. Abolhasan, T.Wysocki, and E. Dutkiewicz: “A Review of Current On-demand Routing Protocols,” in Networking ICN 2001, G.Goos, J.Hartmanis, and J. van Leeuwen (eds.), Springer, Lecture Notes in Computer Science, vol.2094, pp. 186-195.
+1. S. Khalid, I. Ahmad, A. E. G. Clark, H. R. Pavel, I. Makhdoom, M. Abolhasan, M., A. Brékine and S. Ziegler. "Technological Views for IoT for Sustainable Development". In Springer Handbook of Internet of Things (pp. 787-804). Springer Nature. doi:10.1007/978-3-031-39650-2_32. 2023.
+2. D. Smith and M. Abolhasan: “Diversity and cooperative communications in body area networks “. In Advances in Body-Centric Wireless Communication: Applications and State of-the-art. 2016.
+3. A. AL Sabbagh, R. Braun and M. Abolhasan, “Centralized and Distributed CRRM in Heterogeneous Wireless Networks”, in Advanced Methods and Applications in Computational Intelligence, Topics in Intelligent Engineering and Informatics, vol. 6, Springer International Publishing, pp. 299-314. Switzerland 2014.
+4. M. Masihpour, J. Agbinya and M. Abolhasan: “Energy scavenging for magnetically coupled communication devices”. In the book: Energy Scavenging and Optimization Techniques for Mobile Devices, CRC Press, USA. 2012.
+5. J. Lipman, M. Abolhasan and T. Wysocki: “Broadcasting and its Applications in Ad hoc Networks”, To appear in Handbook on Mobile Ad Hoc and Pervasive Communications, to be published by the American Scientific Publishers, December 2006.
+6. M. Abolhasan: ” A new networking technology to improve communications in under-ground mines”, In The Mining Cronicles, Vol 10, November eddition feature: Remote Area Communications, November, 2005.
+7. M. Abolhasan and T.A. Wysocki:”Ad Hoc Networks: A Flexible and Robust Data Communication”, In Handbook on Theoretical and Algorithmic Aspects of Sensor, Ad hoc Wireless and Peer-to-Peer Networks, J. Wu, Ed., CRC Press, 2005.
+8. M. Abolhasan and P. Boustead:”UHF-Based Community Voice Service in Ngaanyatjarra Land of Australia”, In the book: “Information Technology and Indigenous People”,Published by the Idea Group Publishing, 2006.
+9. M. Abolhasan and T.A. Wysocki:”Highly Scalable Routing Strategies: DZTR routing protocol”, In Advanced Wired and Wireless Networks, Series: Multimedia Systems and Applications, Wysocki, Tadeusz A.; Dadej, Arek; Wysocki, Beata J. (Eds.), Vol. 26, Springer, New York, pp. 1-18, 2004.
+10. M. Abolhasan, T.A.Wysocki, and E.Dutkiewicz: “GPS-based Route Discovery algorithms for On-demand Routing Protocols in MANETs”, In Wireless On-Demand Network Systems, Proceedings of WONS 2004, Lecture Notes in Computer Science LNCS2928, Springer 2004, pp. 142-155.
+11. M. Abolhasan, T.Wysocki, and E. Dutkiewicz: “A Review of Current On-demand Routing Protocols,” in Networking ICN 2001, G.Goos, J.Hartmanis, and J. van Leeuwen (eds.), Springer, Lecture Notes in Computer Science, vol.2094, pp. 186-195.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{https://scholar.google.com.au/citations?user=lHxRmsEAAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
