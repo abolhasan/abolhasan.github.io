@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-Prof. Mehran Abolhasan is in the field of Communication Engineering, where he is currently conducting research in areas such as Wireless Networking, Internet of Things, Cybersecurity, Software Defined Networking, Intelligent Transportation Systems (ITS), Urban Greening and Digital Agriculture.
+Prof. Mehran Abolhasan is a researcher in Communication Engineering, with current research spanning Wireless Networking, the Internet of Things (IoT), cybersecurity, Software Defined Networking (SDN) and Intelligent Transportation Systems (ITS) and Vehicular Networking.
 
 He has an internationally renowned research track record through publishing high quality papers in leading journals and conferences with over 12000 citations with a H-index of 42 (GoogleScholar). He has been listed in Stanford University’s top 2% of all scientists list. His significant contributions towards the advancement of knowledge in the field of Communications Engineering has been through the development of theoretical and simulation models, algorithms and protocols, testbeds, and prototypes. His research has resulted in more than 200 publications including top Q1 journals such as IEEE Transaction Journals. Furthermore, he has made significant contribution to the scientific community by serving as a reviewer, TPC, general chair for major international conferences and journals in his field.
 
